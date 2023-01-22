@@ -11,6 +11,7 @@
 * Token alırken [discorddan](https://discord.gg/Eyd5HYzj) almalıyız (rehberin devamında tokenin kullanım alanını göstereceğim)
 * Sohbet için [telegram](https://t.me/SarcophagusTurkish) kanalı
 * Aklıma geldikçe buraya daha fazla not eklerim.
+* Node sonrası bu [listede](https://sarcopahgus.notion.site/Archaeologist-Testnet-Participant-Roster-e19dedd7d00346b2a20dce3aa46ab68b) olmalısınız (sanırım manuel ekleyecek ekip token aldıktan sonra)
 
 ![image](https://user-images.githubusercontent.com/101149671/213924896-1f09ce56-1057-4cf0-b030-6cda23835e8e.png)
 
