@@ -121,7 +121,7 @@ COMPOSE_PROFILES=register docker compose run register
 
 > Yukarı da ki  register komutunu girdikten sonra benim yaptıklarım (test ederek yaptım)
 
-* İlk soru: `Y`` - İkinci soru: `10` - Üçüncü soru: `10` - Dördüncü soru: `1 yea`r - Son sour: `yes`
+* İlk soru: `Y`` - İkinci soru: `190-200 arası` - Üçüncü soru: `1-5 arası` - Dördüncü soru: `1 yea`r - Son sour: `yes`
 * 100 veya 150 de yapabilrisiniz, keyfinize bağlı.
 
 > Başarılı olduğunda görselde ki gibi bir çıktı olacak:
