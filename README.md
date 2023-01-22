@@ -76,16 +76,16 @@ cd quickstart-archaeologist
 > Konu açılmışken, yukarıda kendinize özel cüzdanlar oluşturabilirsiniz, güven ve risk konusu size kalmış :)
 
 ```
+cp .env.example .env
+```
+```
 COMPOSE_PROFILES=seed docker compose run seed-gen
 ```
 
 > Yukarıdaki `seed-gen` komutunu girdikten sonra 12 kelimenizi not edip saklayın.
 
-> Daha sonra altta ki bu iki komutu girip nano ile `.env`'in içine girelim.
+> Daha sonra altta ki komutu girip nano ile `.env`'in içine girelim.
 
-```
-cp .env.example .env
-```
 ```
 nano .env
 ```
@@ -107,4 +107,62 @@ nano .env
 * Bunlar dışında kendi node'unuz varsa veya Alchemy'den bağlanabilirsiniz.
 
 > Hepsini doldurduktan sonra `CTRL + X + Y + ENTER` yapıyoruz.
+
+## Şimdi node'umuzu çalıştıralım:
+
+> Çalıştırmadan önce kontrol etmemiz gerekenler: test ETH ve SARCO token lazım cüzdanımıza.
+
+> Sepolia veya Goerli ETH faucetten bulursunuz, SARCO için discord #nodes-and-technical-discussion kanalından token istemelisiniz. (Faucet yakında gelecek)
+
+```
+COMPOSE_PROFILES=register docker compose run register
+```
+
+> Yukarı da ki  register komutunu girdikten sonra benim yaptıklarım (test ederek yaptım)
+
+* İlk soru: `Y`` - İkinci soru: `10` - Üçüncü soru: `10` - Dördüncü soru: `1 yea`r - Son sour: `yes`
+* 100 veya 150 de yapabilrisiniz, keyfinize bağlı.
+
+> Başarılı olduğunda görselde ki gibi bir çıktı olacak:
+
+![image](https://user-images.githubusercontent.com/101149671/213926991-b9a24d57-5247-4416-b3fe-cc79eca332a5.png)
+
+## Compose up yaptık mı bu iş tamam:
+```
+COMPOSE_PROFILES=service docker compose up -d
+```
+
+## Ya hocam benim node çalışıyor mu?
+
+> ls komutu ile container id'imizi alalım:
+
+```
+docker container ls
+```
+
+> container id kısmına id'inizi girip aratın
+```
+docker logs container id --follow
+```
+
+> Doğru çıktı görseldedir:
+
+![image](https://user-images.githubusercontent.com/101149671/213927255-f8d40794-db0a-47c3-9eab-56f7b53e2099.png)
+
+## Node'a güncelleme gelirse bu komutlar:
+```
+COMPOSE_PROFILES=service docker compose stop
+COMPOSE_PROFILES=service docker compose pull
+COMPOSE_PROFILES=service docker compose up -d
+```
+
+## Burdan sonrasını okumanız gerekmiyor:
+
+* Sürekli hocam Ziesha yoğunluk arttı içerik üretmeyi bıraktın diyenler üzüyor beni
+* Testnet oldukça paylaşıyorum, detaylı yazmaya çalışıyorum.
+* Bunu cevaplamak zorunda değilim biliyorum, ama benimde çalışmam, işimi yapmam, haliyle para kazanmam lazım.
+* 
+
+
+
 
