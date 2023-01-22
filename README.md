@@ -156,13 +156,22 @@ COMPOSE_PROFILES=service docker compose pull
 COMPOSE_PROFILES=service docker compose up -d
 ```
 
-## Burdan sonrasını okumanız gerekmiyor:
+## Burdan sonrasını okumanız gerekmiyor, testnet ile alakalı değil:
 
-* Sürekli hocam Ziesha yoğunluk arttı içerik üretmeyi bıraktın diyenler üzüyor beni
-* Testnet oldukça paylaşıyorum, detaylı yazmaya çalışıyorum.
-* Bunu cevaplamak zorunda değilim biliyorum, ama benimde çalışmam, işimi yapmam, haliyle para kazanmam lazım.
-* 
+> Sürekli hocam Ziesha yoğunluk arttı içerik üretmeyi bıraktın diyenler üzüyor beni
 
+> Testnet oldukça paylaşıyorum, detaylı yazmaya çalışıyorum.
 
+> Bunu cevaplamak zorunda değilim biliyorum, ama benimde çalışmam, işimi yapmam, haliyle para kazanmam lazım.
 
+> Hem bu 2 yıllık süreçte tamamen full artı full ücretsiz ürettim, toplulukta artık benden daha bilgili olan insanlar bile var. Artık kendi kendinize bir şeyler kazanabilirsiniz buradan. Ben çok kazandım, paradan bahsetmiyorum, sizde üretin daha fazla şey. Unutulmak istiyorum artık.
 
+> Şu konuda haklı olabilirsiniz, her ne kadar kendi başınıza bu işleri yapabilecek olsanız bile projeyi bulma konusunda belki eksiklik olabilir. Onda da elimden geldiğince katkıda bulunuyorum size.
+
+> Ve hala eski aktifliğimi isteyen arkadaşlar, üzgünüm. herkes bir gün gider, her güzel şey bir gün biter.
+
+> Son olarak, son 2 günde 2 node paylaştım, bunları yaparken ülkemi ve görmek istediğim yerleri gezerken yapıyorum, yani proje oldukça ben gördükçe paylaşıyorum merak etmeyin.
+
+> Bu gezimin devamında en az 5 şehir daha olacak, belki oralarda görüşürüz sizlerle. Telegram duyuru kanalımdan duyururum.
+
+> Belki saçmaladım yukarıda, söylemek istedim, kolay gelsin.
