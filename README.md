@@ -9,7 +9,7 @@
 * Sarcophagus aynı zamanda bir DAO ile yönetiliyor, ödüllü testnet için oylama başlatıldı. ve DAO tarafından kabul edildi.
 * İlginizi çeker mi bilmiyorum ama, bir diğer güzel haber bu linkte: [Link 1](https://coinmarketcap.com/currencies/sarcophagus/) - [Link 2](https://www.coingecko.com/en/coins/sarcophagus#markets)
 * Token alırken [discorddan](https://discord.gg/Eyd5HYzj) almalıyız (rehberin devamında tokenin kullanım alanını göstereceğim)
-* Sohbet için telegram kanalı
+* Sohbet için [telegram](https://t.me/SarcophagusTurkish) kanalı
 * Aklıma geldikçe buraya daha fazla not eklerim.
 
 ![image](https://user-images.githubusercontent.com/101149671/213924896-1f09ce56-1057-4cf0-b030-6cda23835e8e.png)
