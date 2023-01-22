@@ -11,7 +11,7 @@
 * Token alırken [discorddan](https://discord.gg/Eyd5HYzj) almalıyız (rehberin devamında tokenin kullanım alanını göstereceğim)
 * Sohbet için [telegram](https://t.me/SarcophagusTurkish) kanalı
 * Aklıma geldikçe buraya daha fazla not eklerim.
-* Node sonrası bu [listede](https://sarcopahgus.notion.site/Archaeologist-Testnet-Participant-Roster-e19dedd7d00346b2a20dce3aa46ab68b) olmalısınız (sanırım manuel ekleyecek ekip token aldıktan sonra)
+* Node sonrası bu [listede](https://sarcopahgus.notion.site/Archaeologist-Testnet-Participant-Roster-e19dedd7d00346b2a20dce3aa46ab68b) olmalısınız.
 
 ![image](https://user-images.githubusercontent.com/101149671/213924896-1f09ce56-1057-4cf0-b030-6cda23835e8e.png)
 
@@ -149,6 +149,22 @@ docker logs container id --follow
 > Doğru çıktı görseldedir:
 
 ![image](https://user-images.githubusercontent.com/101149671/213927255-f8d40794-db0a-47c3-9eab-56f7b53e2099.png)
+
+## Node'umuzu kaydedlim:
+
+> [Buraya](https://dev-sarcophagus.netlify.app/embalm) giriyoruz
+
+> Node kurduğumuz cüzdanı bağlıyoruz bir profil oluşturuyoruz. İsim kısmına bence `discord adınızı yazın.
+
+> 2. kısımda bir dosya yüklüyoruz
+
+> 3. kısma Fund Arweave Bundlr yapıyoruz. (token mıntlemek gibi düşünün) (sarcophagus'u bu ekosistemin L2 gibi düşünebilirsiniz)
+
+> 4. kısma [buradan](https://dev-sarcophagus.netlify.app/recipients) public key oluşturup giriyoruz.
+
+> 5. kısımda Archaeologists seçiyoruz, beni seçebilirisiniz: `0x86826aB17c2AF2FBE8d74577E91ec2BB52b3A1Eb`
+
+> 6. kısıma 1 yazıp nextliyoruz
 
 ## Node'a güncelleme gelirse bu komutlar:
 ```
