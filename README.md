@@ -154,7 +154,7 @@ docker logs container id --follow
 
 > [Buraya](https://dev-sarcophagus.netlify.app/embalm) giriyoruz
 
-> Node kurduğumuz cüzdanı bağlıyoruz bir profil oluşturuyoruz. İsim kısmına bence `discord adınızı yazın.
+> Node kurduğumuz cüzdanı bağlıyoruz bir profil oluşturuyoruz. İsim kısmına bence `discord` adınızı yazın.
 
 > 2. kısımda bir dosya yüklüyoruz
 
