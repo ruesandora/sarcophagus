@@ -82,6 +82,9 @@ cp .env.example .env
 ```
 COMPOSE_PROFILES=seed docker compose run seed-gen
 ```
+```
+touch peer-id.json
+```
 
 > Yukarıdaki `seed-gen` komutunu girdikten sonra 12 kelimenizi not edip saklayın.
 
