@@ -175,3 +175,5 @@ COMPOSE_PROFILES=service docker compose up -d
 > Bu gezimin devamında en az 5 şehir daha olacak, belki oralarda görüşürüz sizlerle. Telegram duyuru kanalımdan duyururum.
 
 > Belki saçmaladım yukarıda, söylemek istedim, kolay gelsin.
+
+* Bu arada bunu da redditte buldum, public mi bilmiyorum: [link](https://56ssnyla75tw6rvja6u74w7lf4ow26dl2lzouha4rmxiesz5jk2q.arweave.net/76Um4WD_Z29GqQep_lvrLx1teGvS8uocHIsugks9SrU)
