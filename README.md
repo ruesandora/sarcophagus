@@ -94,7 +94,7 @@ touch peer-id.json
 nano .env
 ```
 
-## Yukarıda `.env`'in içine girdiğinizde yapmanı gerekenler:
+## Yukarıda `.env`'in içine girdiğinizde yapmanız gerekenler:
 
 > `ETH_PRIVATE_KEY` için kısmı tıpkı [taiko](https://github.com/ruesandora/taiko-node#yukar%C4%B1daki-komutlar%C4%B1-girince-a%C3%A7%C4%B1lacak-ekran-g%C3%B6rselde-ki-gibi) 'da yaptığımız gibi metamask'ın private key'ini alıyoruz. (özel anahtar = private key)
 
